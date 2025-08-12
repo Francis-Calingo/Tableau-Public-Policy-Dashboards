@@ -48,10 +48,10 @@ The data structure for the data utilized to build this dashboard is as follows:
 
 | Data Content  | Number of Entries (Records x Field) | Number of Records  | Number of Fields | Download File Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Emigrant Data-All Country Destinations | **465**  | 155  | 3  | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-AllCountries.csv?token=GHSAT0AAAAAADD7C7WSOTOUG4AAYPRBRGRY2CHEISA)  |
-| Emigrant Data-Major Country Destinations  | **559**  | 43   | 13  | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-AllCountries.csv?token=GHSAT0AAAAAADD7C7WSOTOUG4AAYPRBRGRY2CHEISA) |
-| Emigrant Data-Major Country Destinations (Total)  | **22**  | 11  | 2 | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-MajorCountry.csv?token=GHSAT0AAAAAADD7C7WS7XU5MQG2LO54JF6I2CHEJZQ) |
-| Emigrant Data-Provincial Origins | **405**  | 81  | 5  | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-PlaceofOrigin%20Province.csv?token=GHSAT0AAAAAADD7C7WS5BNHX2QSPNYT6QOA2CHEKBQ) |
+| Emigrant Data-All Country Destinations | **465**  | 155  | 3  | [Download](https://github.com/Francis-Calingo/Tableau-Public-Policy-Dashboards/raw/refs/heads/main/Philippine%20Emigrants%20Tableau%20Dashboard/Data/Emigrant-1981-2022-AllCountries.csv)  |
+| Emigrant Data-Major Country Destinations  | **559**  | 43   | 13  | [Download](https://github.com/Francis-Calingo/Tableau-Public-Policy-Dashboards/raw/refs/heads/main/Philippine%20Emigrants%20Tableau%20Dashboard/Data/Emigrant-1981-2022-MajorCountry%20Total.csv) |
+| Emigrant Data-Major Country Destinations (Total)  | **22**  | 11  | 2 | [Download](https://github.com/Francis-Calingo/Tableau-Public-Policy-Dashboards/raw/refs/heads/main/Philippine%20Emigrants%20Tableau%20Dashboard/Data/Emigrant-1981-2022-MajorCountry.csv) |
+| Emigrant Data-Provincial Origins | **405**  | 81  | 5  | [Download](https://github.com/Francis-Calingo/Tableau-Public-Policy-Dashboards/raw/refs/heads/main/Philippine%20Emigrants%20Tableau%20Dashboard/Data/Emigrant-1981-2022-PlaceofOrigin%20Province.csv) |
 | **TOTAL** | **1,451**  | 290  | 23  | N/A  |
 
 **Calculations and Data Viz Development:**
