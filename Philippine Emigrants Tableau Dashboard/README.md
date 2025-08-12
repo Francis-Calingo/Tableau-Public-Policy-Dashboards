@@ -24,7 +24,7 @@ To download the Tableau workbook version, [click here](https://github.com/Franci
 
 <i>Preview of Dashboard:</i>
 
-<img src=https://github.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/blob/main/Figures/Dashboard.png/>
+<img src=./Figures/Dashboard.png>
 
 **Tools and Technologies Used:**
 
@@ -106,9 +106,7 @@ The main takeaways from this dashboard were: (1) Other than the early 2020s (COV
   
 * **Over 1 million people emigrated from the Philippines from 1980-1999 (19 years) and another 1 million left from 1999-2013 (14 years).** With people emigrating at a faster rate over time, the Filipino community may soon overtake other diaspora communities in size. 
 
-<img src=https://github.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/blob/main/Figures/Panel%201.JPG>
-
-
+<img src=./Figures/Panel%201.JPG>
 
 ### International Destinations:
   
@@ -118,9 +116,9 @@ The main takeaways from this dashboard were: (1) Other than the early 2020s (COV
   
 * **While relatively small compared to the emigrant data for the aforementioned countries, 42,587 Filipinos have emigrated to Italy since 1981, the most out of any European country.** This is more than double the next European country, United Kingdom, where 20,582 Filipinos have immigrated to since 1981.
 
-<img src=https://github.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/blob/main/Figures/Panel%202.JPG>
+<img src=./Figures/Panel%202.JPG>
 
-<img src=https://github.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/blob/main/Figures/Panel%203.JPG>
+<img src=./Figures/Panel%203.JPG>
 
 
 ### Place of Origin (Per-Capita):
@@ -131,7 +129,7 @@ The main takeaways from this dashboard were: (1) Other than the early 2020s (COV
   
 * **From a per-capita measurement, very few emigrants can be found from the the other two major island groups-Visayas and Mindanao.** Only Cebu has a rate exceeding 2,000 emigrants per 100,000 (2,045), while the rest of the provinces from those two island groups are below 2,000 (Sulu had the lowest rate with 5 per 100,000, whil nearby Tawi-Tawi had a near-identical 9).
   
-<img src=https://github.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/blob/main/Figures/Panel%204.JPG>
+<img src=./Figures/Panel%204.JPG>
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
