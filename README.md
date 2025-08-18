@@ -10,6 +10,8 @@ Tableau Dashboard visualizing the Philippines' Commission on Filipinos Overseas'
 
 *PREVIEW:*
 
+<img src="./Philippine Emigrants Tableau Dashboard/Figures/PH-Emigrants-Dashboard.gif"/>
+
 ---
 
 # Global Measles Prevalence Dashboard
