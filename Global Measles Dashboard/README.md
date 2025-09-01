@@ -126,6 +126,8 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 # Credits and Acknowledgements
 
+https://community.tableau.com/s/question/0D54T00000C65j3SAB/list-of-world-countries-accessible-with-tableau-public
+
 https://www.youtube.com/watch?v=MmKC86fn1Tg
 
 "The ONLY Data Analytics Portfolio Project You Need - Walkthrough". Uploaded by Lore So What, 2022-12-01. YouTube, https://www.youtube.com/watch?v=g6cjhUhrhY8
