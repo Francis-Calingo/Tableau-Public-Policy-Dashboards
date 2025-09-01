@@ -92,6 +92,14 @@ The data structure for the data utilized to build this dashboard is as follows:
   * Column: Longitude(generated)
   * Row: Latitude(generated)
 
+ | WHO Name  | Matching Tableau Name | Reason for Discrepancy |
+| ------------- | ------------- | ------------- |
+|  | ****  |   |  
+|   | ****  |    | 
+|   | ****  |   |
+|  | ****  |   | 
+| **TOTAL** | ****  |   | 
+
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
