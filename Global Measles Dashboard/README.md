@@ -98,7 +98,14 @@ The data structure for the data utilized to build this dashboard is as follows:
 |   | ****  |    | 
 |   | ****  |   |
 |  | ****  |   | 
-| **TOTAL** | ****  |   | 
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
+|  | ****  |   |  
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
