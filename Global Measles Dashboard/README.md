@@ -60,8 +60,7 @@ The data structure for the data utilized to build this dashboard is as follows:
 | Measles - number of reported cases | ****  | 9223  |  35 | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-AllCountries.csv?token=GHSAT0AAAAAADD7C7WSOTOUG4AAYPRBRGRY2CHEISA)  |
 | Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%) | ****  |  4831  |  35 | [Download](https://raw.githubusercontent.com/Francis-Calingo/Philippine-Emigrants-Tableau-Dashboard/refs/heads/main/CSV%20Files/Emigrant-1981-2022-AllCountries.csv?token=GHSAT0AAAAAADD7C7WSOTOUG4AAYPRBRGRY2CHEISA) |
 | Measles-containing-vaccine second-dose (MCV2) immunization coverage by the locally recommended age (%)  | ****  |  4831 | 35 | [Download]() |
-|  | ****  |   |   | [Download]() |
-| **TOTAL** | ****  |   |   | N/A  |
+| **TOTAL** | ****  |   |  105 | N/A  |
 
 **Calculations and Data Viz Development:**
 * **Panel 1:** Number of Registered Filipino Emigrants Since 1981
