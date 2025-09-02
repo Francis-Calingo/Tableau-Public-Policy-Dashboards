@@ -94,18 +94,21 @@ The data structure for the data utilized to build this dashboard is as follows:
 
  | WHO Name  | Matching Tableau Name | Reason for Discrepancy |
 | ------------- | ------------- | ------------- |
-|  | ****  |   |  
-|   | ****  |    | 
-|   | ****  |   |
-|  | ****  |   | 
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
-|  | ****  |   |  
+| China, Macao Special Administrative Region | China: Macao SAR | Different version of official name used |  
+| Democratic People's Republic of Korea  | Democratic People’s Republic of Korea  | Different version of apostrophe used | 
+| Eswatini  | Swaziland | Name of country has since been updated |
+| Venezuela (Bolivarian Republic of) | Venezuela  | Short version of country name not used by WHO | 
+| Cote d'Ivoire | Côte-d'Ivoire | Two punctuation marks not used by WHO name |  
+| North Macedonia | Former Yugoslav Republic of Macedonia | Name of country has since been updated |  
+| Netherlands (Kingdom of the) | Netherlands | Short version of name not used by WHO |  
+| Bolivia (Plurinational State of) | Bolivia | Short version of name not used by WHO |  
+| Iran (Islamic Republic of) | Iran | Short version of name not used by WHO |  
+| Congo | Congo (Brazzaville) | Official name not used by WHO |  
+| Viet Nam | Vietnam | English transliteration of name not used by WHO |  
+| China, Hong Kong Special Administrative Region | Hong Kong | Short version of name not used by WHO |  
+		
+<img width="559" height="313" alt="image" src="https://github.com/user-attachments/assets/14e0c66c-95ee-46a9-aa4c-8724d10e9463" />
+
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
