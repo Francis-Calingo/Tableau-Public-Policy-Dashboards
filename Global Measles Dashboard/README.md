@@ -106,8 +106,6 @@ The data structure for the data utilized to build this dashboard is as follows:
 | Viet Nam | Vietnam | English transliteration of name not used by WHO |  
 | China, Hong Kong Special Administrative Region | Hong Kong | Short version of name not used by WHO |  
 		
-<img width="559" height="313" alt="image" src="https://github.com/user-attachments/assets/14e0c66c-95ee-46a9-aa4c-8724d10e9463" />
-
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
